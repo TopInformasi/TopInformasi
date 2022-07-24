@@ -1,4 +1,4 @@
-name: Jihad
+name: amazonRDP
 
 on: workflow_dispatch
 
